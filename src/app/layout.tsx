@@ -11,7 +11,7 @@ export default function RootLayout({ children }: { children: ReactNode }) {
       <head>
         <link rel="stylesheet" href="/css/font.css" />
         <link rel="icon" href="/image/favicon/favicon.ico" />
-        <meta name="google-adsense-account" content="ca-pub-7038308567914787">
+        <meta name="google-adsense-account" content="ca-pub-7038308567914787"/>
       </head>
       <body>{children}</body>
     </html>
