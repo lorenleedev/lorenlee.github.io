@@ -15,6 +15,7 @@ export default function RootLayout({
     <head>
       <link rel={"stylesheet"} href={"/css/font.css"}></link>
       <link rel={"icon"} href={"/image/favicon/favicon.ico"}></link>
+      <meta name="google-adsense-account" content="ca-pub-7038308567914787">
     </head>
       <body>{children}</body>
     </html>
